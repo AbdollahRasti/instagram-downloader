@@ -26,32 +26,7 @@
 - **اعلان‌های پوش نوتیفیکیشن فایربیس:** دریافت نوتیفیکیشن‌های پوش از طریق فایربیس.
 
 ## نصب
-
-1. ریپازیتوری را کلون کنید:
-    ```bash
-    git clone https://github.com/your-username/instagram-downloader.git
-    ```
-
-2. به دایرکتوری پروژه بروید:
-    ```bash
-    cd instagram-downloader
-    ```
-
-3. وابستگی‌ها را نصب کنید:
-    ```bash
-    flutter pub get
-    ```
-
-4. اپلیکیشن را اجرا کنید:
-    ```bash
-    flutter run
-    ```
-
-## وابستگی‌ها
-
-- Flutter SDK
-- Unity Ads
-- Firebase Push Notifications
+فایل apk را از داخل ریپازیتوری دانلود و نصب کنید.
 
 ## نحوه استفاده
 
