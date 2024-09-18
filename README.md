@@ -51,3 +51,8 @@ https://drive.google.com/file/d/1kGeVfRkVbUf-mN2xOE8g1kW_6M8Q3Wqg/view?usp=shari
 2. **مشاهده استوری به صورت ناشناس:** نام کاربری حساب عمومی را وارد کرده و استوری‌های آن‌ها را بدون اینکه دیده شوید، مشاهده کنید.
 3. **عکس پروفایل و بایو:** نام کاربری را وارد کرده تا عکس پروفایل و بایو کاربر را دریافت کنید.
 
+## Languages and Technologies Used
+
+- **Dart** (Flutter)
+- **Firebase**
+- **Unity Ads**
