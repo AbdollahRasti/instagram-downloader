@@ -2,6 +2,20 @@
 
 یک اپلیکیشن فلاتر برای دانلود محتواهای اینستاگرام که به کاربران اجازه می‌دهد تا ریلز، پست‌ها، استوری‌ها و هایلایت‌ها را دانلود کنند. همچنین این اپلیکیشن دارای قابلیت‌های اضافی مانند مشاهده استوری به‌صورت ناشناس، دریافت کپشن و بایو، و نمایش تبلیغات از طریق Unity Ads می‌باشد.
 
+##اسکرین شات ها
+
+<div>
+  <img src="https://github.com/AbdollahRasti/instagram-downloader/blob/main/assets/screenshot0.JPEG" width="45%" style="display: inline-block; margin-right: 5%;" />
+  
+  <img src="https://github.com/AbdollahRasti/instagram-downloader/blob/main/assets/screenshot1.JPEG" width="45%" style="display: inline-block;" />
+</div>
+
+<div>
+  <img src="https://github.com/AbdollahRasti/instagram-downloader/blob/main/assets/screenshot2.JPEG" width="45%" style="display: inline-block; margin-right: 5%;" />
+  
+  <img src="https://github.com/AbdollahRasti/instagram-downloader/blob/main/assets/screenshot3.JPEG" width="45%" style="display: inline-block;" />
+</div>
+
 ## ویژگی‌ها
 
 ### قابلیت‌های دانلود
